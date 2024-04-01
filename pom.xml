@@ -4,10 +4,12 @@
   <artifactId>weddingPlanner</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+	
 	<properties>
  	  <sonar.organization>izzeddinasmar-softwareproject</sonar.organization>
   	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+	
   <dependencies>
 	  <dependency>
 	      <groupId>io.cucumber</groupId>
